@@ -1,4 +1,4 @@
-# Peshelo Gomo
+# Peshel Gomo
 
 ### 💫 Software Developer & DevOps
 I have a passion for building scalable, efficient systems and automating infrastructure. I thrive at the intersection of development and operations, ensuring seamless delivery from code to production. Currently working with **Spring Boot & FastAPI** for backend development while diving deep into **DevOps & Cloud technologies**. Open to collaborating on **business solutions, open-source projects, and innovative tech initiatives**.
